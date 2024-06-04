@@ -1,0 +1,14 @@
+.btns{
+  margin: 20px auto;
+  border: 1px solid #b0b0b0;
+  width: 70%;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+}
+.btns h1{
+  font-size: 35px;
+  text-align: left;
+  padding-left: 7%;
+  font-weight: 700;
+}
